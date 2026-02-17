@@ -58,22 +58,17 @@ lib/
 
 ## Screenshots
 
-### Welcome Flow
-<div align="center">
-  
-| Splash Screen | Sign Up |
-|---|---|
-| ![Splash Screen](assets/screenshots/splash.png) | ![Sign Up](assets/screenshots/signup.png) |
+<p align="center">
+  <img src="assets/screenshots/splash.jpeg" alt="Splash Screen" width="200"/>
+  <img src="assets/screenshots/login.jpeg" alt="Login" width="200"/>
+  <img src="assets/screenshots/signup.jpeg" alt="Sign Up" width="200"/>
+</p>
 
-| Login | Messages List |
-|---|---|
-| ![Login](assets/screenshots/login.png) | ![Messages List](assets/screenshots/messages_list.png) |
-
-| Chat Screen | New Chat |
-|---|---|
-| ![Chat Screen](assets/screenshots/chat_screen.png) | ![New Chat](assets/screenshots/new_chat.png) |
-
-</div>
+<p align="center">
+  <img src="assets/screenshots/messages_list.jpeg" alt="Messages List" width="200"/>
+  <img src="assets/screenshots/chat_screen.jpeg" alt="Chat Screen" width="200"/>
+  <img src="assets/screenshots/new_chat.jpeg" alt="New Chat" width="200"/>
+</p>
 
 ## Getting Started
 
